@@ -1,7 +1,11 @@
 <div>
   <h1>Codora Software Solutions</h1>
-  <img align="right" src="../assets/logo.svg" width="86">
+  <img align="right" src="../assets/logo.svg" width="128">
   <p> Codora Software Solutions is a Naples-based development firm specializing in comprehensive software solutions. Our expertise spans a wide range of technologies, including web applications, progressive web apps (PWAs), desktop software, and cross-platform development. We deliver end-to-end services covering both frontend and backend systems, tailored to meet the unique needs of each project. </p>
+  <div align="center">
+    <img src="https://img.shields.io/badge/EMail-hello@emanueleiannuzzi.me-black?style=for-the-badge&logo=gmail" alt="Email badge">
+    <img src="https://img.shields.io/badge/WebSite-codora.emanueleiannuzzi.me-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAEF0lEQVRIS5WVa2iWZRjH//fzbOZYtjLaygwrWmmeyC1rZQcsDCTC0oyyInIUVPqhDCkqCOpD1IqioAILTKV0X4Q+xIQOlhtJh3XSyA6Wpigl5lxmvu/79Pu/e9+897hZXtv/fe7DdV+n+7quO+j/UaJaTdUhNdTAX1D9Hqn/a4al/zoejsYwQjr/b2khPLdKoVHKYvbdTFbAswyeTcPJGU7BSRx4HtwWHVwhjXxN+stL7Si8JVL4BmuLwd68oiMUHCfNOiitgvF48EJNTZIUCtkDCJvIvGrpZMZfgg5ClhWkRYz/APPBB7GSvIIbsQzh4RvCOw/G7xXUxXcC0TkjZ91O5p+D2aOk8fulTgLYnKaaWyzq7SpvrOBSFj8Ev4AW8LvUVif1YFm6XCoSlsOUSCu54TmsnAgOgVPBp6AJTAefmftfBQw2gNZSvVrVr68qoq5A0PsI8l1wBzGld+HlK0SotSJYqkPwQW0gt2zozFjBNUzeAe+BBzmI9sQpQ+z1DDgH/DBYgSYpxZCi7mP9pYqx0/g+Cy4HltlV9WAVlt4cJTV5rm7WxpaCJhL/qcy3AO6zTC6H80AvsLc7wCXA2VemlEQpSgusgLH28NuFNU8wvhLMcLhw4czqgfzXB6Oq+Imp4/9RPSHtlx5lfDUco803FmwD94PncoJ2KkF5SRtZH4cRiYq2p2hnfwYXgQZwenwOz5fA8DRrY1BQeyFJYAELgPM/ouQA90EG6e5hPFnGunOfTB1ETgqfa7EHbeRSN/7exHh1zMZmH2FYw9qdQypI9TphvaHiRcxClWsl/avNCprBd8CC7JaLp3qZ2wjIRi5r7jAerEXAFIw4q7Jfy9eZtASj5+kEnW0FhEy7+Tl5IIuSfUpLb2FZD5OlMPQjwIU3FLldpPx1wD+Ds4SLShogClWnVNPUsXQYHgb0mXBVUNaYlevQuZLs4uBmBrQQ2xMmMZ+gkDV6u8L1K96+i7ffwvMk+5bZXlUwnWMfs/AIXrBZJru6FMwn6bcUlIzjEN3ZFOjQmbPI4fW9PQXKrQF6DDyOGxeQrr1xL1qnkLQ0ZKUWmo/zGqrD7QMue94DLm0wkSkJmVJyD+uubLniPwHrwXVlU6Izk5n14rJbgqvyN+psZKKtfXj1KvN7cwq8dgdwzN3smpKgnlKm0xi7tf+YV+C578Gx20EbvZ4icH2sJ+yNFNv4nILtzJ19bmqXgTXwNcFHy1dnlfeIB4eLaueiXiYzApnhYvkT3APGAL8BZJ+a9yEc3hfhZepuG3jqsttj4UN5MKB4lM5Vnzq4+GvLSUOM+O9E6TqUEgk6ZdCc7HAzehOuh8DWnJeD7iC/5/nFwG3C1WpLIwp7U2WdeOD+dcyPfl6Z/SD3Nbqy4ff3iwHfjk7/AGkrDuJjmuMxAAAAAElFTkSuQmCC" alt="WebSite badge">
+  </div>
 </div>
 <h2>Current projects</h2>
 
