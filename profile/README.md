@@ -1,6 +1,6 @@
 <div>
   <h1>Codora Software Solutions</h1>
-  <img align="right" src="./assets/logo.svg" width="86">
+  <img align="right" src="../assets/logo.svg" width="86">
   <p> Codora Software Solutions is a Naples-based development firm specializing in comprehensive software solutions. Our expertise spans a wide range of technologies, including web applications, progressive web apps (PWAs), desktop software, and cross-platform development. We deliver end-to-end services covering both frontend and backend systems, tailored to meet the unique needs of each project. </p>
 </div>
 <h2>Current projects</h2>
